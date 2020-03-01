@@ -4,12 +4,13 @@
 
 位于`$HOME`
 
-- `~/.bash_profile`
-- `~/.zshrc`
+* `~/.bash_profile`
+* `~/.zshrc`
 
 ## 修改系统配置文件
 
 位于`/etc`文件夹
 
-- `/etc/paths`
-- `/etc/paths.d`
+* `/etc/paths`
+* `/etc/paths.d`
+
