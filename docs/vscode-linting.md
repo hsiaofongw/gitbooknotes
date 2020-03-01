@@ -26,8 +26,8 @@
 
 下面是使用VS Code可能偶尔需要修改的文件：
 
-- ${workspaceFolder}/.vscode/setting.json 项目级别的配置文件
-- ${workspaceFolder}/.vscode/launch.json 和`debug`有关
+- `${workspaceFolder}/.vscode/setting.json` 项目级别的配置文件
+- `${workspaceFolder}/.vscode/launch.json` 和`debug`有关
 
 其他的系统级别的配置文件和具体的操作系统有关.
 
